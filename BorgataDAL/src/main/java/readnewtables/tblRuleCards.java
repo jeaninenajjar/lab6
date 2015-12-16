@@ -75,5 +75,5 @@ public class tblRuleCards {
 		return RuleCards;
 		
 
-	
+	}
 }
